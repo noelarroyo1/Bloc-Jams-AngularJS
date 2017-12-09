@@ -169,7 +169,7 @@
            /**
            * @method setVolume
            * @desc sets volume to currently playing song
-           * @param {Number} volume 
+           * @param {Number} volume
            */
            SongPlayer.setCurrentVolume = function(volume) {
              if(currentBuzzObject) {
